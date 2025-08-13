@@ -1,6 +1,6 @@
 # Spoken Arabic Dialect Identification (ADI) – HAREED Task @ ArabicNLP 2025
 
-This repository implements a **speech classification pipeline** fusing **ECAPA-TDNN** and **WavLM** for **Spoken Arabic Dialect Identification (ADI)**. Developed for the **HAREED Task, ArabicNLP 2025 (NADI)**.
+This repository implements a **speech classification pipeline** fusing **ECAPA-TDNN** and **WavLM** for **Spoken Arabic Dialect Identification (ADI)**. Developed for the **SHAREED Task, ArabicNLP 2025 (NADI)**.
 
 ---
 
