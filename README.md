@@ -6,7 +6,7 @@ This repository implements a **speech classification pipeline** fusing **ECAPA-T
 
 **Authors & Affiliations:**  
 - **Sanad Albawwab**  
-  Decision Support & Automation - Applied AI Division  
+ Knowledge Technologies Department - Applied AI Division
   Royal Scientific Society, Amman, Jordan  
   sanad.bawwab@rss.jo  
 
